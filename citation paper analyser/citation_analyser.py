@@ -1,6 +1,6 @@
 """
 
-Name: Abanoub Milad
+Name: Abanoub Milad Nassief
 Email: abanoubcs@gmail.com
 Description: citation paper analyser
 
